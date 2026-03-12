@@ -3,7 +3,7 @@ class Database {
     private $host = 'localhost';
     private $db_name = 'gym_system';
     private $username = 'root'; // Por defecto en Laragon
-    private $password = '';     // Por defecto vacío en Laragon
+    private $password = '96982113';     // Por defecto vacío en Laragon
     public $conn;
 
     public function getConnection() {
